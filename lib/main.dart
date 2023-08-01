@@ -1,10 +1,10 @@
 import 'package:clothes_ecommerce/app/account/view/forgot_password.dart';
 import 'package:clothes_ecommerce/app/account/view/log_in.dart';
 import 'package:clothes_ecommerce/app/account/view/sign_up.dart';
+import 'package:clothes_ecommerce/app/base/splash_screen/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import 'app/splash_screen/splash_screen.dart';
 
 void main() {
   runApp(const MyApp());
